@@ -4,4 +4,4 @@ Resume website created using HTML and CSS
 
 # Important:
 
-Check the website https://mrmarlrico.github.io
+Check the website https://mrmarlrico.github.io/mrmarlrico-resume/
