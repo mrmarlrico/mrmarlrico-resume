@@ -1,4 +1,7 @@
-# mrmarlrico.github.io
-This is is my first resume website created with HTML and CSS. 
+# Marl Kristoffer Rico - Resume
+
+Resume website created using HTML and CSS
+
+# Important:
 
 Check the website https://mrmarlrico.github.io
